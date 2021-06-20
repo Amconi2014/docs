@@ -1,4 +1,4 @@
----
+---bitcoins free
 title: About billing for GitHub Sponsors
 intro: You will be billed for your sponsorships with the rest of your paid products and features.
 redirect_from:
